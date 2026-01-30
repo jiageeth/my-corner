@@ -28,6 +28,7 @@
     width: 100%;
     height: 100%;
     margin-bottom: 10px;
+    object-fit: cover;
 }
 .name-extra {
     color: #4b6cc1;
@@ -39,4 +40,20 @@
     height: 45px;
     border-width: 0;
     border-radius: 8px;
+}
+.img_in_about {
+    width: 100px;
+    height: 100px;
+}
+.skill-imgs {
+    width: 90px;
+    height: 100px;
+}
+.skills-card {
+     width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+.skill-card-head {
+    font-size: 30px;
 }
