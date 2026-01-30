@@ -1,0 +1,33 @@
+.bg-container {
+    background-image: url("royal_img.png");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+
+}
+
+.hotel-card {
+    background-color: #000000e6;
+    border-radius: 16px;
+    padding: 20px;
+}
+.hotel-name {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 22px;
+}
+.hotel-location {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+.hotel-room-price {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 22px;
+}
+.button-container {
+    text-align: center;
+    margin: 20px;
+}
